@@ -33,7 +33,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <Compile Include="Layer.cs" />
+    <Compile Include="NeuralNetwork.cs" />
+    <Compile Include="Neuron.cs" />
+    <Compile Include="NeuronType.cs" />
+    <Compile Include="Topology.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

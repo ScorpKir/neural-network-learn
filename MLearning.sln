@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLearning", "MLearning\MLearning.csproj", "{BB2F129A-AF6C-4E8F-B02D-C1B9A71DFC71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLearningTests", "MLearningTests\MLearningTests.csproj", "{A7F844A8-DB3A-4AA0-AEA9-B490C7ECE7D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BB2F129A-AF6C-4E8F-B02D-C1B9A71DFC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB2F129A-AF6C-4E8F-B02D-C1B9A71DFC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB2F129A-AF6C-4E8F-B02D-C1B9A71DFC71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F844A8-DB3A-4AA0-AEA9-B490C7ECE7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F844A8-DB3A-4AA0-AEA9-B490C7ECE7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F844A8-DB3A-4AA0-AEA9-B490C7ECE7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F844A8-DB3A-4AA0-AEA9-B490C7ECE7D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
